@@ -1,0 +1,10 @@
+gold_ecru_color_xpath = "//label[.//span[normalize-space(text())='Gold/Écru']] | //span[normalize-space()='Gold/Écru']/ancestor::div[contains(@role,'radio')] | //label[normalize-space()='Gold/Écru']"
+site = 'https://www.apple.com/'
+apple_logo = "//a[@aria-label='Apple']"
+store_button = "//a[@aria-label='Store']//span[@class='globalnav-link-text-container']"
+apple_watch = "//a[@class='rf-productnav-card-title'][normalize-space()='Apple Watch']"
+AllModels = "//a[normalize-space()='All Models']"
+buy_button = "//label[.//span[contains(text(), 'Buy')]]"
+error_message_textdoc = "A maximum of 6 Apple Watch Hermès Series 10 (GPS + Cellular) can be purchased per customer. Please adjust the total quantity of Apple Watch Hermès Series 10 (GPS + Cellular) in your order before checking out."
+title = "Buy Apple Watch - Apple"
+AppleWatchHermesURL = "https://www.apple.com/shop/buy-watch/apple-watch-hermesURL"
