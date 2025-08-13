@@ -9,8 +9,8 @@ import time
 import helpers as h
 
 # Your BrowserStack credentials
-USERNAME = "serinezargaryan_P7fD2M"
-ACCESS_KEY = "XkSkNCoqLRuqo5PTbisp"
+USERNAME = "your_name"
+ACCESS_KEY = "your_key"
 
 # Fixture that sets up and tears down a BrowserStack WebDriver session
 @pytest.fixture
